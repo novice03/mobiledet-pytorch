@@ -8,4 +8,4 @@ PyTorch implementation of MobileDet backbones introduced in [MobileDets: Searchi
 |inverterted_bottleneck|InvertedResidual|
 |inverted_bottleneck_no_expansion|DepthwiseSeparableConv|
 
-[tucker-conv package] (https://pypi.org/project/tucker-conv/) is used for tucker_conv
+[tucker-conv package](https://pypi.org/project/tucker-conv/) is used for tucker_conv
