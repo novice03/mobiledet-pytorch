@@ -1,0 +1,2 @@
+tucker-conv==1.0.1
+timm==0.6.13

@@ -1,5 +1,6 @@
 from timm.models.efficientnet_blocks import *
 from tucker_conv.conv import TuckerConv
+import torch.nn as nn
 
 # Target: Jetson Xavier GPU
 class MobileDetGPU(nn.Module):
